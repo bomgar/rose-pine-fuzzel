@@ -11,7 +11,10 @@
     </a>
 </p>
 
+
 ## Usage
+
+[fuzzel](https://codeberg.org/dnkl/fuzzel)
 
 Add ini to `$HOME/.config/fuzzel/fuzzel.ini`
 
